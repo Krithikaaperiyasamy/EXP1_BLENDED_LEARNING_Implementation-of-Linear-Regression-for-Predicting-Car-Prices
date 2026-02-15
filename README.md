@@ -86,15 +86,21 @@ plt.show()
 ## Output:
 <img width="401" height="181" alt="Screenshot 2026-02-15 202737" src="https://github.com/user-attachments/assets/75f63d1c-ea05-4f56-93b3-92afa9355ef5\n" />
 
+
 <img width="333" height="107" alt="Screenshot 2026-02-15 202746" src="https://github.com/user-attachments/assets/b1efa0c4-d445-47bd-a0c4-1c5206722df0" />
+
 
 <img width="195" height="34" alt="Screenshot 2026-02-15 202757" src="https://github.com/user-attachments/assets/e88af9aa-f74e-4bac-a8a0-c339985e94cc" />
 
+
 <img width="1174" height="605" alt="Screenshot 2026-02-15 202817" src="https://github.com/user-attachments/assets/e86a4cc4-8152-43f7-a58e-b02c17793351" />
+
 
 <img width="558" height="66" alt="Screenshot 2026-02-15 202900" src="https://github.com/user-attachments/assets/a38cadef-95d6-445f-8294-555460d7ba09" />
 
+
 <img width="1228" height="580" alt="Screenshot 2026-02-15 203029" src="https://github.com/user-attachments/assets/cf88953f-d355-47b2-9427-0843b1d003d1" />
+
 
 <img width="1300" height="509" alt="Screenshot 2026-02-15 203045" src="https://github.com/user-attachments/assets/9c4d1986-8d35-42a6-9649-6a874883e989" />
 
