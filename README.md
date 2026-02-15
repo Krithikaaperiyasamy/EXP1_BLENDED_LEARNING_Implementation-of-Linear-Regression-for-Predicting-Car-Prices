@@ -83,17 +83,12 @@ plt.show()
 ## Output:
 
 <img width="1179" height="330" alt="Screenshot 2026-02-15 205103" src="https://github.com/user-attachments/assets/78b1f221-bbf6-4fcc-8cbf-4b0220707579" />
-
 <img width="1231" height="220" alt="Screenshot 2026-02-15 210658" src="https://github.com/user-attachments/assets/8e962263-1b17-4adc-ae4e-503c3b0bf9f0" />
-
 <img width="1194" height="83" alt="Screenshot 2026-02-15 211226" src="https://github.com/user-attachments/assets/b0738b40-3db5-4b12-bf28-3ac1af69ec61" />
-
 <img width="1263" height="594" alt="{1D1B9BBA-31E5-452B-8063-D7CC140F4103}" src="https://github.com/user-attachments/assets/fea4e9b0-e92d-48ad-9109-cfccb8cb9939" />
-
 <img width="1200" height="83" alt="Screenshot 2026-02-15 211603" src="https://github.com/user-attachments/assets/dc8fdad2-bb5b-4d2d-a680-7d605e66fa2f" />
-
 <img width="1210" height="590" alt="Screenshot 2026-02-15 211629" src="https://github.com/user-attachments/assets/282af8f9-7896-4479-a866-db4ea5252eb9" />
-
+<img width="1292" height="512" alt="Screenshot 2026-02-15 212306" src="https://github.com/user-attachments/assets/b01413da-0081-476b-a48a-5bf6187d4192" />
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
