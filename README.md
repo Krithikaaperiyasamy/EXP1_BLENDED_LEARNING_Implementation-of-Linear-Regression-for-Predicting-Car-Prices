@@ -83,6 +83,7 @@ plt.show()
 ## Output:
 
 <img width="1179" height="330" alt="Screenshot 2026-02-15 205103" src="https://github.com/user-attachments/assets/78b1f221-bbf6-4fcc-8cbf-4b0220707579" />
+
 ![Screenshot_15-2-2026_204131_localhost](https://github.com/user-attachments/assets/bd9139af-c3c4-4777-915c-75845173368d)
 ![Screenshot_15-2-2026_204554_localhost](https://github.com/user-attachments/assets/16ee03c7-58c8-452c-a8a9-f3cc03313b10)
 ![Screenshot_15-2-2026_20469_localhost](https://github.com/user-attachments/assets/ee9faf06-2d2b-43f8-b481-d53fabf94c81)
