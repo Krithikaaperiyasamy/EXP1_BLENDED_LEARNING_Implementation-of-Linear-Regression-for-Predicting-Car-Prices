@@ -84,25 +84,20 @@ plt.show()
 ```
 
 ## Output:
-<img width="401" height="181" alt="Screenshot 2026-02-15 202737" src="https://github.com/user-attachments/assets/75f63d1c-ea05-4f56-93b3-92afa9355ef5\n" />
 
+![Screenshot_15-2-2026_204131_localhost](https://github.com/user-attachments/assets/bd9139af-c3c4-4777-915c-75845173368d)
 
-<img width="333" height="107" alt="Screenshot 2026-02-15 202746" src="https://github.com/user-attachments/assets/b1efa0c4-d445-47bd-a0c4-1c5206722df0" />
+![Screenshot_15-2-2026_204554_localhost](https://github.com/user-attachments/assets/16ee03c7-58c8-452c-a8a9-f3cc03313b10)
 
+![Screenshot_15-2-2026_20469_localhost](https://github.com/user-attachments/assets/ee9faf06-2d2b-43f8-b481-d53fabf94c81)
 
-<img width="195" height="34" alt="Screenshot 2026-02-15 202757" src="https://github.com/user-attachments/assets/e88af9aa-f74e-4bac-a8a0-c339985e94cc" />
+![Screenshot_15-2-2026_204622_localhost](https://github.com/user-attachments/assets/0f05d7bc-cae0-42ad-8628-b8a76dc4f26a)
 
+![Screenshot_15-2-2026_204634_localhost](https://github.com/user-attachments/assets/1e2d619b-b7a2-49f8-a082-ca00f35b6a10)
 
-<img width="1174" height="605" alt="Screenshot 2026-02-15 202817" src="https://github.com/user-attachments/assets/e86a4cc4-8152-43f7-a58e-b02c17793351" />
+![Screenshot_15-2-2026_204649_localhost](https://github.com/user-attachments/assets/7e4cde74-0922-4af9-a130-ff195b03b389)
 
-
-<img width="558" height="66" alt="Screenshot 2026-02-15 202900" src="https://github.com/user-attachments/assets/a38cadef-95d6-445f-8294-555460d7ba09" />
-
-
-<img width="1228" height="580" alt="Screenshot 2026-02-15 203029" src="https://github.com/user-attachments/assets/cf88953f-d355-47b2-9427-0843b1d003d1" />
-
-
-<img width="1300" height="509" alt="Screenshot 2026-02-15 203045" src="https://github.com/user-attachments/assets/9c4d1986-8d35-42a6-9649-6a874883e989" />
+![Screenshot_15-2-2026_20473_localhost](https://github.com/user-attachments/assets/5dbbb61f-a2f5-4031-b065-1de358ef4b72)
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
