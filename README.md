@@ -85,6 +85,8 @@ plt.show()
 
 ## Output:
 
+![Screenshot_15-2-2026_20473_localhost](https://github.com/user-attachments/assets/1624c946-cfc2-4037-a30d-e1d6add8dca3)
+
 ![Screenshot_15-2-2026_204131_localhost](https://github.com/user-attachments/assets/bd9139af-c3c4-4777-915c-75845173368d)
 
 ![Screenshot_15-2-2026_204554_localhost](https://github.com/user-attachments/assets/16ee03c7-58c8-452c-a8a9-f3cc03313b10)
